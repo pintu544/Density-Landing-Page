@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves creating a landing page for Density using the provided Figma design. The tech stack includes the Gatsby framework for building the website, a headless CMS for content management, and styled components for styling.
+This project involves creating a landing page for Density using the provided Figma design. The tech stack includes the Gatsby framework for building the website, a headless CMS for content management, and styled-components for styling.
 
 ### Figma Design
 
@@ -23,7 +23,7 @@ The project structure is organized as follows:
 - `src/`: Contains the main source code for the Gatsby project.
   - `components/`: Includes reusable React components.
   - `pages/`: Contains individual pages of the website.
-  - `styles/`: Holds styled components for styling.
+  - `styles/`: Holds styled-components for styling.
   - `templates/`: Includes Gatsby templates for dynamic pages.
   - `utils/`: Consists of utility functions or helper files.
 
@@ -32,8 +32,8 @@ Note: Please ensure you have installed <code><a href="https://nodejs.org/en/down
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone [<repository-url>](https://github.com/pintu544/Density-Landing-Page)
+cd Density-Landing-Page
 ```
 
 2. Install dependencies:
@@ -65,7 +65,7 @@ The project is deployed using [Netlify](https://www.netlify.com/) for live demon
 
 ### Challenge 1: Content Modeling
 
-Understanding and modeling content in ContentStack was a challenge, as it required aligning the CMS structure with the Figma design.
+Understanding and modelling content in ContentStack was a challenge, as it required aligning the CMS structure with the Figma design.
 
 **Solution**: Collaborated with the content team to define a clear content model. Regular communication and feedback helped in refining the model for better alignment with the design.
 
@@ -77,7 +77,7 @@ Integrating Netlify CMS for content editing posed a challenge due to the need fo
 
 ### Challenge 3: Performance Optimization
 
-Ensuring the website's performance is optimal, especially with media-heavy content, required careful consideration.
+Ensuring the website's performance is optimal, especially with media-heavy content, requires careful consideration.
 
 **Solution**: Implemented lazy loading for images, optimized image sizes, and leveraged Gatsby's built-in performance optimization features. Regularly monitored performance metrics and made adjustments as needed.
 
