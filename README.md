@@ -59,7 +59,7 @@ Visit `http://localhost:8000` to preview the website.
 
 ## Deployment
 
-The project is deployed using [Netlify](https://www.netlify.com/) for live demonstration. The deployment link is [provided here](#).
+The project is deployed using [Vercel](https://vercel.com/) for live demonstration. The deployment link is [provided here](https://density-landing-page-peach.vercel.app/).
 
 ## Challenges and Solutions
 
